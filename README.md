@@ -4,6 +4,24 @@
 
 ```
 
+## ⚡ Quick Start
+
+```bash
+# Termux (Android) — copie e cole tudo de uma vez:
+pkg install python chafa git -y && git clone https://github.com/ans1a/Tiktok-Username-Sniper.git && cd Tiktok-Username-Sniper && bash install.sh && python tiktok_checker.py
+```
+
+```bash
+# Linux — copie e cole tudo de uma vez:
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git && cd Tiktok-Username-Sniper && bash install.sh && python tiktok_checker.py
+```
+
+```powershell
+# Windows (PowerShell):
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git; cd Tiktok-Username-Sniper; pip install -r requirements.txt; python tiktok_checker.py
+```
+
+
 # TikTok Username Checker
 
 **PT** · **EN**
@@ -29,8 +47,8 @@ Uma script em Python que gera usernames aleatórios e checa automaticamente se e
 pkg install python chafa -y
 
 # 2. Clonar o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 
 # 3. Instalar dependências
 bash install.sh
@@ -39,16 +57,16 @@ bash install.sh
 ### Instalação — Linux
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 bash install.sh
 ```
 
 ### Instalação — Windows
 
 ```powershell
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 pip install -r requirements.txt
 ```
 
@@ -142,8 +160,8 @@ A Python script that generates random usernames and automatically checks if they
 pkg install python chafa -y
 
 # 2. Clone the repo
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 
 # 3. Install dependencies
 bash install.sh
@@ -152,16 +170,16 @@ bash install.sh
 ### Installation — Linux
 
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 bash install.sh
 ```
 
 ### Installation — Windows
 
 ```powershell
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 pip install -r requirements.txt
 ```
 
@@ -253,6 +271,24 @@ made with 🖤
 
 ```
 
+## ⚡ Quick Start
+
+```bash
+# Termux (Android) — copie e cole tudo de uma vez:
+pkg install python chafa git -y && git clone https://github.com/ans1a/Tiktok-Username-Sniper.git && cd Tiktok-Username-Sniper && bash install.sh && python tiktok_checker.py
+```
+
+```bash
+# Linux — copie e cole tudo de uma vez:
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git && cd Tiktok-Username-Sniper && bash install.sh && python tiktok_checker.py
+```
+
+```powershell
+# Windows (PowerShell):
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git; cd Tiktok-Username-Sniper; pip install -r requirements.txt; python tiktok_checker.py
+```
+
+
 # TikTok Username Checker
 
 **PT** · **EN**
@@ -278,8 +314,8 @@ Uma script em Python que gera usernames aleatórios e checa automaticamente se e
 pkg install python chafa -y
 
 # 2. Clonar o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 
 # 3. Instalar dependências
 bash install.sh
@@ -288,16 +324,16 @@ bash install.sh
 ### Instalação — Linux
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 bash install.sh
 ```
 
 ### Instalação — Windows
 
 ```powershell
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 pip install -r requirements.txt
 ```
 
@@ -391,8 +427,8 @@ A Python script that generates random usernames and automatically checks if they
 pkg install python chafa -y
 
 # 2. Clone the repo
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 
 # 3. Install dependencies
 bash install.sh
@@ -401,16 +437,16 @@ bash install.sh
 ### Installation — Linux
 
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 bash install.sh
 ```
 
 ### Installation — Windows
 
 ```powershell
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ans1a/Tiktok-Username-Sniper.git
+cd Tiktok-Username-Sniper
 pip install -r requirements.txt
 ```
 
